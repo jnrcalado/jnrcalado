@@ -1,7 +1,7 @@
 - 👋 Eai, me chamo Ricardo Calado Junior
 - 👀 Tenho interesse em ser um Desenvolvedor
 - 🌱 Iniciando estudos na linguagem Python
-- 💞️ Busco trabalhar inicialmente como um iniciante/estagiario para adquirir mais experiência 
+- 💞️ Busco atuar como Dev.  
 - 📫 Contatos: E-Mail jnrcalado@gmail.com / owbestejnr@hotmail.com / Instagram @jnrcalado
 
 <!---
